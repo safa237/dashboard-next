@@ -1,5 +1,5 @@
 import Navbar from "../components/ui/dashboard/navbar/Navbar"
-import Sidebar from "../components/ui/dashboard/sidebar/sidebar"
+import Sidebar from "../components/ui/dashboard/sidebar/Sidebar"
 import styles from "../components/ui/dashboard/dashboard.module.css"
 import Footer from "../components/ui/dashboard/footer/footer"
 
