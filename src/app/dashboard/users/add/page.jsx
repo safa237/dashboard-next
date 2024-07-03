@@ -1,4 +1,4 @@
-import styles from "../../../ui/dashboard/users/adduser/adduser.module.css";
+import styles from "../../../components/ui/dashboard/users/adduser/adduser.module.css";
 
 const AddUserPage = () => {
   return (

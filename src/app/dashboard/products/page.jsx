@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import styles from "../../ui/dashboard/products/products.module.css";
+import styles from "../../components/ui/dashboard/products/products.module.css";
 
 
 const ProductsPage = async () => {

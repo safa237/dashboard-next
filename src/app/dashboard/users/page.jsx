@@ -1,4 +1,4 @@
-import styles from '../../ui/dashboard/users/users.module.css';
+import styles from '../../components/ui/dashboard/users/users.module.css';
 import Image from "next/image";
 import Link from "next/link";
 

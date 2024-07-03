@@ -1,5 +1,5 @@
 
-import styles from "../../../ui/dashboard/users/singleuser/singleuser.module.css";
+import styles from "../../../components/ui/dashboard/users/singleuser/singleuser.module.css";
 import Image from "next/image";
 
 const SingleUserPage = async ({ params }) => {
